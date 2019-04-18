@@ -1,0 +1,43 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.row {
+    height: 150px;
+    width: 100%;
+}
+.greybar {
+    background-color: gray;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.blueprofile {
+    width: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+}
+
+.text {
+    box-sizing: border-box;
+    padding: 50px;
+    height: 200px;
+    background-color: #fff;
+}
+
+.bluebar {
+    background-color: cornflowerblue;
+}
+
+.aquabar {
+    background-color: aqua;
+}
+
+.pukebar {
+    background-color: darkorange;
+}
+
+.yellowbar {
+    background-color: yellow;
+}
