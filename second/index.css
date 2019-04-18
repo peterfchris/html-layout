@@ -1,0 +1,77 @@
+
+body {
+    background-color: #fff;
+    margin: 0;
+    padding: 25px;
+}
+
+h1 {
+    color: darkblue;
+    margin-top: 30%;
+}
+
+.outline-box {
+    height: 20%;
+    width: 100%;
+    padding: 10px;
+    border: solid 5px black;
+    box-sizing: border-box;
+}
+
+.purple-box {
+    height: 150px;
+    width: 35px;
+    background-color: blueviolet;
+    margin: 5px 5px;
+    display: inline-block;
+}
+
+.green-box {
+    background-color: darkolivegreen;
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+    margin: 0 40px;
+}
+
+.blue-circle {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    background-color: cadetblue;
+    display: inline-block;
+}
+
+.dotted-box {
+    width: 100%;
+    border: 5px dotted black;
+    padding: 50px;
+    box-sizing: border-box;
+    margin-top: 25px; 
+}
+
+.paper-hover {
+    display: inline-block;
+    width: 100%;
+    height: 200px;
+    background-color: #fffde8;
+    padding: auto auto;
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+}
+
+.wrapper {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.text-box {
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+}
